@@ -4,4 +4,12 @@ h1{
 }
 p{
     color: blue;
+    background-color: rgb(209, 206, 206);
+}
+html{
+    background-color: black;
+}
+ul{
+    background-color: aliceblue;
+    
 }
